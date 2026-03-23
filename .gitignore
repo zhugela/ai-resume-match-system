@@ -1,0 +1,42 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# 环境变量
+.env
+.env.local
+.env.*.local
+
+# 上传文件
+uploads/
+
+# 日志
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+test-output/
+
+# Build
+build/
+out/

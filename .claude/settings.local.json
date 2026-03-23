@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xxd \"D:/code/ai-resume-match-system/web/src/views/CompareResumes.vue\")",
+      "Bash(cd:*)"
+    ]
+  }
+}
